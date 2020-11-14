@@ -68,19 +68,6 @@
     <url>https://github.com/knowm/XChange/issues</url>
   </issueManagement>
 
-  <distributionManagement>
-    <repository>
-      <id>releases</id>
-      <name>a0cgt0ggpiev9-artifactory-primary-0-releases</name>
-      <url>https://mainbloq.jfrog.io/artifactory/libs-releases-local</url>
-    </repository>
-    <snapshotRepository>
-      <id>snapshots</id>
-      <name>a0cgt0ggpiev9-artifactory-primary-0-snapshots</name>
-      <url>https://mainbloq.jfrog.io/artifactory/libs-snapshot-local</url>
-    </snapshotRepository>
-  </distributionManagement>
-
   <scm>
     <connection>scm:git:git@github.com:knowm/XChange.git</connection>
     <developerConnection>scm:git:git@github.com:knowm/XChange.git</developerConnection>
